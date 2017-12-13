@@ -2,6 +2,6 @@
   "secret_key": "akpb%1ud@rkfhm5hj+dva5zcbo5q3zydn77t$fnsflo*0)omi2",
   "db_name": "demo",
   "db_user": "postgres",
-  "db_password": "toor",
+  "db_password": "root",
   "internal_ip": "127.0.0.1"
 }
